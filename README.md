@@ -45,6 +45,11 @@ Focus on the project is to create and implement smart light system in the trains
   - GitHub <br>
   - Postman <br>
 
+**Controller**<br>
+  - ESP32 <img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/24dcde05-6821-4e57-b6bd-c3e7e0cd5a2b" />
+
+  - PIR motion detector <img width="199" height="205" alt="image" src="https://github.com/user-attachments/assets/3e5f7f0d-d083-423c-8e2f-e410010afb6b" />
+
 ## 🖥️Data source:
   - OpenWeatherMap
 
