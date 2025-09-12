@@ -1,5 +1,5 @@
 # Team 3:
-  - **Rolands Prohorovs - Database** 
+  - **- Rolands Prohorovs - Database** 
   - **Timofei Smyshliaev - API's**
   - **Nirzor - Backend**
 
