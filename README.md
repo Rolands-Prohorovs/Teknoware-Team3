@@ -15,14 +15,14 @@ Focus on the project is to create and implement smart light system in the trains
    - contextual configuration
    - device capabilities
 
-📍**Project goals:**
+## 📍Project goals:
 
  - program light controller and sensors
  - implement light controller
  - enhance human comfort and well-being
  - optimize energy usage
 
-🗺️**Roadmap:**
+## 🗺️Roadmap:
 
 1. make research about controller and find most suitabe for the project - 1 week
 2. program controller and sensors for our needs - 1 month
@@ -33,7 +33,7 @@ Focus on the project is to create and implement smart light system in the trains
 3. test controller and light - 2 weeks
 4. implement project - 2-3 days
 
-🛠️**Tools:**
+## 🛠️Tools:
 
   Communication platforms: <br>
     - Whatsapp <br>
@@ -44,7 +44,7 @@ Focus on the project is to create and implement smart light system in the trains
     - GitHub <br>
     - Postman <br>
 
-**Data source:**
+## 🖥️Data source:
   - OpenWeatherMap
   - 
 Security protocols: HTTPS / TLS
