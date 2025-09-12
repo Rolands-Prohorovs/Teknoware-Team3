@@ -35,8 +35,7 @@ Focus on the project is to create and implement smart light system in the trains
 ## 🛠️Tools:
 
 **Communication platforms:** <br>
-  - Whatsapp <br> <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/a0bc4709-b7c0-4a11-9984-26ba14724554" />
-
+  - <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/a0bc4709-b7c0-4a11-9984-26ba14724554" />Whatsapp <br> 
   - Microsoft Teams <br>
   
 **Coding:** <br>
