@@ -47,6 +47,5 @@ Focus on the project is to create and implement smart light system in the trains
 
 ## 🖥️Data source:
   - OpenWeatherMap
-  - 
 **Security protocols:**
 - HTTPS / TLS
