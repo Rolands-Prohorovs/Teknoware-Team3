@@ -1,9 +1,7 @@
 # Team 3:
   - **Rolands Prohorovs - Database** 
-  <img width="453" height="590" alt="guy" src="https://github.com/user-attachments/assets/5f050489-f136-4c0f-8c2a-16d7eb84718d" />
-
+  
   - **Timofei Smyshliaev - API's**
-
   
   - **Nirzor - Backend**
 
