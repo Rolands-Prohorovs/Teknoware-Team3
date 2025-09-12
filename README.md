@@ -1,4 +1,4 @@
-*Team 3:
+*Team 3:\n
 Rolands Prohorovs - Database 
 Timofei Smyshliaev - API's
 Nirzor - Backend
