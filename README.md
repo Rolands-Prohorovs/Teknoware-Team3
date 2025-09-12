@@ -22,7 +22,7 @@ Focus on the project is to create and implement smart light system in the trains
  - enhance human comfort and well-being
  - optimize energy usage
 
-**Roadmap:**
+🗺️**Roadmap:**
 
 1. make research about controller and find most suitabe for the project - 1 week
 2. program controller and sensors for our needs - 1 month
@@ -33,7 +33,7 @@ Focus on the project is to create and implement smart light system in the trains
 3. test controller and light - 2 weeks
 4. implement project - 2-3 days
 
-**Tools:**
+🛠️**Tools:**
   Communication platforms:
     - Whatsapp
     - Microsoft Teams
