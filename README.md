@@ -41,3 +41,4 @@ Tools:
 Data source:
   - OpenWeatherMap
   - 
+Security protocols: HTTPS / TLS
