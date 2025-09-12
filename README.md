@@ -37,7 +37,7 @@ Focus on the project is to create and implement smart light system in the trains
   Communication platforms:<br>
     - Whatsapp<br>
     - Microsoft Teams<br>
-  Coding:<br>
+  **Coding:**
     - Visual Studio Code<br>
     - Microsoft Azure <br>
     - GitHub <br>
