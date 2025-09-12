@@ -38,10 +38,10 @@ Focus on the project is to create and implement smart light system in the trains
       - Whatsapp<br>
       - Microsoft Teams<br>
   Coding:<br>
-      - Visual Studio Code<br>
-      - Microsoft Azure <br>
-      - GitHub <br>
-      - Postman<br>
+      -Visual Studio Code<br>
+      -Microsoft Azure <br>
+      -GitHub <br>
+      -Postman<br>
 
 **Data source:**
   - OpenWeatherMap
