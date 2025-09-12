@@ -1,7 +1,7 @@
 # Team 3:
   - **Rolands Prohorovs - Database** 
   
-  - **Timofei Smyshliaev - API's**![PridePrideFlagGIF](https://github.com/user-attachments/assets/96318ace-0c86-4afe-8773-fc90e35d6c9a)
+  - **Timofei Smyshliaev - API's**
 
   
   - **Nirzor - Backend**
