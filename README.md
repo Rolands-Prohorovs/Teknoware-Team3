@@ -6,7 +6,7 @@
   
   - **Nirzor - Backend**
 
-**Project scope:** 
+👀**Project scope:**
 
 Focus on the project is to create and implement smart light system in the trains. Specifically, the project will cover:
  - automatic light adjustment
@@ -15,7 +15,7 @@ Focus on the project is to create and implement smart light system in the trains
  - contextual configuration
  - device capabilities
 
-**Project goals:**
+📍**Project goals:**
 
  - program light controller and sensors
  - implement light controller
