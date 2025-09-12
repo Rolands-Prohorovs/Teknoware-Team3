@@ -12,6 +12,7 @@ Focus on the project is to create and implement smart light system in the trains
  - contextual configuration
  - device capabilities
 Project goals:
+
  - program light controller and sensors
  - implement light controller
  - enhance human comfort and well-being
