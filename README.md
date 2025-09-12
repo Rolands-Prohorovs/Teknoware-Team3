@@ -1,7 +1,9 @@
 # Team 3:
-  **- Rolands Prohorovs - Database** 
-  **- Timofei Smyshliaev - API's**
-  **- Nirzor - Backend**
+  **Rolands Prohorovs - Database** 
+  
+  **Timofei Smyshliaev - API's**
+  
+  **Nirzor - Backend**
 
 Project scope: 
 
