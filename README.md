@@ -11,6 +11,7 @@ Focus on the project is to create and implement smart light system in the trains
  - data fetching and timing
  - contextual configuration
  - device capabilities
+
 Project goals:
 
  - program light controller and sensors
