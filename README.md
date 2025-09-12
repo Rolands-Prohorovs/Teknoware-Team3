@@ -34,7 +34,7 @@ Focus on the project is to create and implement smart light system in the trains
 4. implement project - 2-3 days
 
 🛠️**Tools:**
-  Communication platforms:
+  Communication platforms:<br>
     - Whatsapp
     - Microsoft Teams
   Coding:
