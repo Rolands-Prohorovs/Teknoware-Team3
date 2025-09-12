@@ -33,15 +33,15 @@ Focus on the project is to create and implement smart light system in the trains
 3. test controller and light - 2 weeks
 4. implement project - 2-3 days
 
-🛠️**Tools:**<br>
-  Communication platforms:<br>
-      - Whatsapp<br>
-      - Microsoft Teams<br>
-  Coding:<br>
-      - Visual Studio Code<br>
+🛠️**Tools:** <br>
+  Communication platforms: <br>
+      - Whatsapp <br>
+      - Microsoft Teams <br>
+  Coding: <br>
+      - Visual Studio Code <br>
       - Microsoft Azure <br>
       - GitHub <br>
-      - Postman<br>
+      - Postman <br>
 
 **Data source:**
   - OpenWeatherMap
