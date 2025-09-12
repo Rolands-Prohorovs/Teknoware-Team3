@@ -1,7 +1,7 @@
 # *Team 3:
- **Rolands Prohorovs - Database** 
- **Timofei Smyshliaev - API's**
- **Nirzor - Backend**
+  - **Rolands Prohorovs - Database** 
+  - **Timofei Smyshliaev - API's**
+  - **Nirzor - Backend**
 
 Project scope: 
 Focus on the project is to create and implement smart light system in the trains. Specifically, the project will cover:
