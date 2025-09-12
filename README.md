@@ -1,7 +1,7 @@
 # Team 3:
   - **Rolands Prohorovs - Database** 
   
-  - **Timofei Smyshliaev - API's** <img alt = image source = https://i.pinimg.com/originals/9c/f6/a3/9cf6a3ca2fde36505eb91b7a1c1e5287.jpg>
+  - **Timofei Smyshliaev - API's** <img width="350" height="250" alt = image source = 'https://i.pinimg.com/originals/9c/f6/a3/9cf6a3ca2fde36505eb91b7a1c1e5287.jpg'>
   
   - **Nirzor - Backend**
 
