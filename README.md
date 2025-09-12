@@ -33,7 +33,7 @@ Focus on the project is to create and implement smart light system in the trains
 3. test controller and light - 2 weeks
 4. implement project - 2-3 days
 
-🛠️**Tools:**
+🛠️**Tools:**<br>
   Communication platforms:<br>
       - Whatsapp<br>
       - Microsoft Teams<br>
