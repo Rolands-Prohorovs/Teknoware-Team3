@@ -45,7 +45,7 @@ Focus on the project is to create and implement smart light system in the trains
   - Postman <br>
 
 **Controller**<br>
-  - ESP32
+  - ESP32 (microcontroller for reading info from sensors)
 <img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/24dcde05-6821-4e57-b6bd-c3e7e0cd5a2b" />
 
   - PIR motion detector (for checking is there people on the train, so light can turn off when there is nobody)
