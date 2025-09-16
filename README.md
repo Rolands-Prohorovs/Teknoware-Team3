@@ -48,10 +48,10 @@ Focus on the project is to create and implement smart light system in the trains
   - ESP32
 <img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/24dcde05-6821-4e57-b6bd-c3e7e0cd5a2b" />
 
-  - PIR motion detector
+  - PIR motion detector (for checking is there people on the train, so light can turn off when there is nobody)
 <img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/3e5f7f0d-d083-423c-8e2f-e410010afb6b" />
 
-  - BH1750 light sensor
+  - BH1750 light sensor (for making light turn on when train goes under the bridge or in the tunnel)
 <img width="363" height="139" alt="image" src="https://github.com/user-attachments/assets/baee6b7a-1fa0-4696-b73c-f18e3e7a8ac2" />
 
 ## 🖥️Data source:
