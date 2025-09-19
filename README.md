@@ -11,8 +11,7 @@ Focus on the project is to create and implement smart light system in the trains
    - automatic light adjustment
    - location-based customization
    - data fetching and timing
-   - contextual configuration
-   - device capabilities
+   - device capabilitie
 
 ## 📍Project goals:
 
@@ -23,12 +22,11 @@ Focus on the project is to create and implement smart light system in the trains
 
 ## 🗺️Roadmap:
 
-- make research about controller and find most suitabe for the project - 1 week
+- make research about controller and find most suitabe for the project - 2 week
 - program controller and sensors for our needs - 1 month
    - System Architecture
    - Database Design
    - API Development
-   - Security & Reliability
 - test controller and light - 2 weeks
 - implement project - 2-3 days
 
