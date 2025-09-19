@@ -57,3 +57,11 @@ Focus on the project is to create and implement smart light system in the trains
 
 **Security protocols:**
 - HTTPS / TLS
+
+
+Questions:
+1. Do we make button on the light for turning it off and also with 3 level of brightness. Or QR code with app or website for regulating? 
+2. Do lights have battaries or they are powered by wire?
+3. What light do we use led or regular?
+4. Do we need db with light working hours?
+   
