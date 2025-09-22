@@ -59,6 +59,7 @@ Focus on the project is to create and implement smart light system in the trains
 - HTTPS / TLS
 
 **Simulation of ESP32 with sensors:**<br>
+- link: https://wokwi.com/projects/442795806298788865 
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/5af6ca88-2727-44ac-a122-adf0ad690bf8" />
 
 Questions:
