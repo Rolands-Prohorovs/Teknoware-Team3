@@ -58,8 +58,8 @@ Focus on the project is to create and implement smart light system in the trains
 **Security protocols:**
 - HTTPS / TLS
 
-**Simulation of ESP32 with sensors:**
-<img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/5af6ca88-2727-44ac-a122-adf0ad690bf8" />
+**Simulation of ESP32 with sensors:**<br>
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/5af6ca88-2727-44ac-a122-adf0ad690bf8" />
 
 Questions:
 1. Do we make button on the light for turning it off and also with 3 level of brightness. Or QR code with app or website for regulating? 
