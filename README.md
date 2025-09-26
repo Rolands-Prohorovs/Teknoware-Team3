@@ -61,7 +61,8 @@ Focus on the project is to create and implement smart light system in the trains
 
 **Simulation of ESP32 with sensors:**<br>
 - link: https://wokwi.com/projects/443143503327813633
-<img width="2538" height="1100" alt="image" src="https://github.com/user-attachments/assets/9c85d5cd-8535-49da-9634-36e8f679bd44" />
+<img width="2549" height="1115" alt="image" src="https://github.com/user-attachments/assets/2f9aaa4a-0028-4c5d-8b61-149b8321748f" />
+
 
 
 Questions:
