@@ -60,7 +60,8 @@ Focus on the project is to create and implement smart light system in the trains
 
 **Simulation of ESP32 with sensors:**<br>
 - link: https://wokwi.com/projects/443143503327813633
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/5af6ca88-2727-44ac-a122-adf0ad690bf8" />
+<img width="2538" height="1100" alt="image" src="https://github.com/user-attachments/assets/9c85d5cd-8535-49da-9634-36e8f679bd44" />
+
 
 Questions:
 1. Do we make button on the light for turning it off and also with 3 level of brightness. Or QR code with app or website for regulating? 
