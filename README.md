@@ -53,7 +53,8 @@ Focus on the project is to create and implement smart light system in the trains
 <img width="363" height="139" alt="image" src="https://github.com/user-attachments/assets/baee6b7a-1fa0-4696-b73c-f18e3e7a8ac2" />
 
 ## 🖥️Data source:
-  - OpenWeatherMap
+  - OpenWeatherMap - for fetching info about sunset, sunrise, time.
+  - Digitraffic - for fetching info about train location
 
 **Security protocols:**
 - HTTPS / TLS
