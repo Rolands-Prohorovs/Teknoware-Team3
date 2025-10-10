@@ -9,5 +9,11 @@
 | Writing code for the Wokwi prototype | 6 | Writing code for prototype, integrating API, testing the code |
 | Implementing the project on a breadboard | 2 | Transferred Wokwi prototype to physical breadboard; connected ESP32, sensors, tested wiring |
 | Assembling components | In process. 5 hours have already been spent | Mounted LED element, plex, ESP32, sensors, and power supply; connected all wiring; checked physical assembly and secure mounting |
-
 ### Total hours - 58
+
+## In the plans:
+| Task Description                | Hours Spent | Notes                 |
+| ------------------------------- | ----------- | --------------------- |
+| Debugging and code optimization | 5 (expected) | Testing and fixing code errors, improving response time, and optimizing sensor performance. |
+| Test lamp behavior in different conditions | 3 (expected) | Adjust thresholds and delays |
+| Manual override via button or app | 2 (expected) | Added override feature |
