@@ -43,9 +43,6 @@ Focus on the project is to create and implement smart light system in the trains
   - PIR motion detector (for checking is there people on the train, so light can turn off when there is nobody)
 <img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/3e5f7f0d-d083-423c-8e2f-e410010afb6b" />
 
-  - BH1750 light sensor (for making light turn on when train goes under the bridge or in the tunnel)
-<img width="363" height="139" alt="image" src="https://github.com/user-attachments/assets/baee6b7a-1fa0-4696-b73c-f18e3e7a8ac2" />
-
 ## 🖥️Data source:
   - OpenWeatherMap - for fetching info about sunset, sunrise, time.
 
@@ -57,10 +54,4 @@ Focus on the project is to create and implement smart light system in the trains
 <img width="2549" height="1115" alt="image" src="https://github.com/user-attachments/assets/2f9aaa4a-0028-4c5d-8b61-149b8321748f" />
 
 
-
-Questions:
-1. Do we make button on the light for turning it off and also with 3 level of brightness. Or QR code with app or website for regulating? 
-2. Do lights have battaries or they are powered by wire?
-3. What light do we use led or regular?
-4. Do we need db with light working hours?
    
